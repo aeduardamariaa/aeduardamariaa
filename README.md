@@ -19,3 +19,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeduardamariaa&langs_count=8" alt="Top Langs" />
 </a>
 </div>
+
+
+[![aeduardamariaa](https://github-readme-stats.vercel.app/api/top-langs/?username=aeduardamariaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
